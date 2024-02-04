@@ -1,4 +1,4 @@
-import PyPDF2
+import PyPDF2 as pdf
 
 pdffiles = ["1.pdf","2.pdf"]
 merger = PyPDF2.PdfMerger()
